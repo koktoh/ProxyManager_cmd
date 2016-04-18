@@ -1,7 +1,7 @@
 # ProxyManager_cmd
 
 Manage the Network Adapter and Proxy together.
-Management config file are written in Json.
+Management config file is written in Json.
 
     {
       [
