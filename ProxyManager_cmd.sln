@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyManager_cmd", "ProxyManager_cmd\ProxyManager_cmd.csproj", "{ECECE304-D154-4C23-9012-0E16F969DABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager", "DeviceManager\DeviceManager.csproj", "{DC54B11B-8D01-4F7E-8845-02AC6C0504D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECECE304-D154-4C23-9012-0E16F969DABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECECE304-D154-4C23-9012-0E16F969DABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECECE304-D154-4C23-9012-0E16F969DABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECECE304-D154-4C23-9012-0E16F969DABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC54B11B-8D01-4F7E-8845-02AC6C0504D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC54B11B-8D01-4F7E-8845-02AC6C0504D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC54B11B-8D01-4F7E-8845-02AC6C0504D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC54B11B-8D01-4F7E-8845-02AC6C0504D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
